@@ -1,0 +1,25 @@
+p {
+  font-family: serif;
+  color:#222222
+}
+
+a {
+  color: #0000ee;
+}
+
+a:visited {
+  color: #551a8;
+}
+
+a:hover {
+  color: #0066ee;
+}
+
+body {
+  background-color: #b07c30;
+}
+
+div {
+  background-color: white;
+   box-shadow: 10px 10px 5px black;
+}
